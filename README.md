@@ -2,7 +2,7 @@
 - 👀 I’m interested in things that most people on this site probably are. I like coding, chess, technology, and video games.
 - 🌱 I’m currently learning how to not suck so much at coding.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: batttler82004@gmail.com
+- 📫 How to reach me: batttler82004@gmail.com or james.taddei@jtasd.org
 
 <!---
 battler82004/battler82004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
